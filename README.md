@@ -1,6 +1,4 @@
-# 🏁 Esse projeto foi desenvolvido como projeto final do módulo 4 do curso de desenvolvimento web Full Stack da Kenzie Academy Brasil.
-
-Para inciar este projeto, é necessário instalar as dependências, que serão utilizadas nos testes. Portanto utilize o comando abaixo para instalar tais dependências:
+# Para inciar este projeto, é necessário instalar as dependências, que serão utilizadas nos testes. Portanto utilize o comando abaixo para instalar tais dependências:
 
 ```bash
 # caso use npm
